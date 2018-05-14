@@ -9,3 +9,5 @@ the file coming from GitHub
 Integrated to PHPStorm IDE. This will test if GitHub see the changes I made locally.
 Doesn't seem to update the GitHub File.
 Commit was failed. Again, trying to push it to GitHub
+
+So far the commit was a success. Trying to take another test to Confirm. Checking
