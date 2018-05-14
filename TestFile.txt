@@ -5,3 +5,5 @@ I have fetch the changes to GitHub.com
 
 Created a new changes. But this changes will be overwritten from
 the file coming from GitHub
+
+Integrated to PHPStorm IDE. This will test if GitHub see the changes I made locally.
