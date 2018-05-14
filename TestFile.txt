@@ -2,6 +2,3 @@ This is a test before adding to Github Local
 I now made some changes to local repo
 
 I have fetch the changes to GitHub.com
-
-Created a new changes. But this changes will be overwritten from
-the file coming from GitHub
