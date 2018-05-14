@@ -7,4 +7,5 @@ Created a new changes. But this changes will be overwritten from
 the file coming from GitHub
 
 Integrated to PHPStorm IDE. This will test if GitHub see the changes I made locally.
-Doesn't seem to update the GitHub File
+Doesn't seem to update the GitHub File.
+Commit was failed. Again, trying to push it to GitHub
